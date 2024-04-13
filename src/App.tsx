@@ -5,8 +5,7 @@ import Typewriter from "./components/Typewriter";
 function App() {
   return (
     <div className="App">
-        <h1>10秒代码变更检查测试2</h1>
-      <Typewriter/>
+        腾讯云推送测试
     </div>
   );
 }
