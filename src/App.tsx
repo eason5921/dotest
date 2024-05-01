@@ -8,7 +8,7 @@ function App() {
     },[])
   return (
     <div className="App">
-        腾讯云推送测试9999
+        腾讯云推送测试12222
     </div>
   );
 }
