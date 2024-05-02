@@ -4,7 +4,7 @@ import Typewriter from "./components/Typewriter";
 
 function App() {
     useEffect(()=>{
-        fetch('http://www.dengpu-dev.site:3002/')
+        // fetch('http://www.dengpu-dev.site/list')
     },[])
   return (
     <div className="App">
